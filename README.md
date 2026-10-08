@@ -229,7 +229,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit"/>
 </a>
 
-<a href="https://medium.com/@e05yxai">
+<a href="https://medium.com/@premnsharma">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
 </a>
 
