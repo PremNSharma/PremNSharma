@@ -213,7 +213,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/premsh7rma">
+<a href="https://github.com/PremNSharma">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -243,11 +243,11 @@ If you like my projects, consider giving them a ⭐ and following my GitHub prof
 
 <p align="center">
 
-<a href="https://github.com/premsh7rma?tab=repositories">
+<a href="https://github.com/PremNSharma?tab=repositories">
 <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/premsh7rma">
+<a href="https://github.com/PremNSharma">
 <img src="https://img.shields.io/badge/👤_Follow_Me-2EA44F?style=for-the-badge"/>
 </a>
 
