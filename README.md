@@ -217,7 +217,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://x.com/e05yxai">
+<a href="https://x.com/PremNSharma">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
